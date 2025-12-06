@@ -1,0 +1,16 @@
+
+Microsoft (R) Auto Code Review Version 3.0.30122.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Computer name: JONATHAN-D44109
+User name    : Jonathan_Moore
+Label        : C:\WinDDK\7600.16385.1
+
+Jan 17 10:12:29  monitor  Starting
+Jan 17 13:46:32   oacrcl  Creating queue for 'WDKSamples:x86fre'
+Jan 17 13:46:40   oacrcl  Creating queue for 'root:x86fre'
+Jan 17 14:02:55   daemon  Starting 'root:x86fre'
+Jan 17 14:03:19   daemon  Finishing 'root:x86fre' - No issues, 3 file(s), 0:18
+Jan 17 14:03:25   daemon  Starting 'WDKSamples:x86fre'
+Jan 17 15:24:11   daemon  Throttling stats: 99% disk idle (target>=50%), 0% sleep, 1% scanner suspend
+Jan 17 15:24:11   daemon  Finishing 'WDKSamples:x86fre' - No issues, 1438 file(s), 1:29:39

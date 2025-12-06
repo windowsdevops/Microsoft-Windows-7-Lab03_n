@@ -1,0 +1,20 @@
+Microsoft (R) Auto Code Review Version 3.0.30122.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Mar 12 07:29:43   daemon  Starting 'root:x86fre'
+PREfast - pch_hdr.src (creating precompiled header)
+Enabling throttling to reduce disk load
+PREfast - engineadapter.cpp (1 of 3)
+PREfast - pch_hdr.src (creating precompiled header)
+PREfast - sensoradapter.cpp (2 of 3)
+PREfast - pch_hdr.src (creating precompiled header)
+PREfast - storageadapter.cpp (3 of 3)
+Mar 12 07:30:16   daemon  Finishing 'root:x86fre' - No issues, 3 file(s), 0:23
+Jan 17 14:02:55   daemon  Starting 'root:x86fre'
+PREfast - pch_hdr.src (creating precompiled header)
+PREfast - engineadapter.cpp (1 of 3)
+PREfast - pch_hdr.src (creating precompiled header)
+PREfast - sensoradapter.cpp (2 of 3)
+PREfast - pch_hdr.src (creating precompiled header)
+PREfast - storageadapter.cpp (3 of 3)
+Jan 17 14:03:19   daemon  Finishing 'root:x86fre' - No issues, 3 file(s), 0:18

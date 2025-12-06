@@ -1,0 +1,3 @@
+c:\winddk\7600.16385.1.obj\src\biometrics\adapters\engine_adapter\objfre_win7_x86\i386\precomp.oacr.pft.pchast<|>
+c:\winddk\7600.16385.1.obj\src\biometrics\adapters\sensor_adapter\objfre_win7_x86\i386\precomp.oacr.pft.pchast<|>
+c:\winddk\7600.16385.1.obj\src\biometrics\adapters\storage_adapter\objfre_win7_x86\i386\precomp.oacr.pft.pchast<|>
